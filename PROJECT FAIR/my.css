@@ -1,0 +1,77 @@
+.image{
+ margin-left: 520px;
+}
+.container{
+    margin-left: 520px;
+    font-size: 20px;
+    margin-top: 100px;
+    border: 3px solid whitesmoke;
+    width: 300px;
+    height: 300px;
+    padding-left: 90px;
+    padding-top: 50px;
+    background-color: #f9f9f9;
+    border-radius: 1em;
+    box-shadow: 2px 2px 2px black;
+}
+.username{
+    margin-top: 50px;
+    font-size: 17px;
+}
+.input2{
+    width: 300px; 
+    padding: 10px; 
+    font-size: 16px; 
+    border: 2px solid #630a09; 
+    border-radius: 5px; 
+    background-color: #f9f9f9; 
+    color: #333; 
+    margin-left: -50px;
+    margin-top: 30px;
+}
+.styled-input:focus {
+border-color: #555;
+outline: none; 
+}
+.styled-button {
+    background-color: #cccdcc; 
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px;
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 12px; 
+    transition: background-color 0.3s ease;
+    height: 40px; 
+    padding-top: 12px;
+    margin-top: 30px;
+    margin-left: -50px;
+    
+}
+  .styled-button:hover {
+    background-color: #8e8e8e; 
+  }
+
+  .styled-button:active {
+    background-color: #8c8c8c; 
+    transform: scale(0.98); 
+  }
+  .back-button{
+    width: 120px;
+    height: 40px;
+    margin-top: -200px;
+    border-radius: 5%;
+    font-size: 17px;
+    cursor: pointer; 
+  }
+  .back{
+    margin-top: -580px;
+    margin-left: 40px;
+  }
+  body{
+    background-color: rgb(213, 252, 252);
+  }
